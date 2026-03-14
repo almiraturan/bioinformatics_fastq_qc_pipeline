@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+.snakemake/
+plots/
+results/
+data/
+results/
+plots/
+*.fastq
+*.fastq.gz
