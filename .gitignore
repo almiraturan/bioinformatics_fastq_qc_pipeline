@@ -5,7 +5,6 @@ __pycache__/
 plots/
 results/
 data/
-results/
-plots/
+
 *.fastq
 *.fastq.gz
