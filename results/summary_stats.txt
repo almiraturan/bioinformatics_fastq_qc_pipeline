@@ -1,0 +1,24 @@
+gc_content
+count  : 81011
+mean   : 53.00
+median : 53.53
+min    : 14.97
+max    : 73.40
+std    : 7.10
+
+read_length
+count  : 81011
+mean   : 1038.24
+median : 547.00
+min    : 86.00
+max    : 686155.00
+std    : 2995.92
+
+mean_quality
+count  : 81011
+mean   : 17.90
+median : 17.31
+min    : 2.75
+max    : 38.84
+std    : 8.27
+
